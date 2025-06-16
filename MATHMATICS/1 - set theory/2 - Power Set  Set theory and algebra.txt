@@ -1,0 +1,27 @@
+1.2 Power Set | Set theory and algebra
+
+Power set: If A is a finite set, then the set of all subsets of A is called the power set of A.
+
+It includes:
+- Empty set (∅)
+- All subsets
+- The set itself
+
+Formula:
+If a set has n elements, then its power set has 2ⁿ subsets.
+
+Example:
+A = {a, b}
+Power Set = {∅, {a}, {b}, {a, b}}
+
+Real Life Uses:
+- Outfit combinations
+- Product bundles
+- Packing options
+- Testing feature sets
+
+⚠ Notes:
+- No duplicates
+- Order doesn’t matter
+- Empty set is always included
+

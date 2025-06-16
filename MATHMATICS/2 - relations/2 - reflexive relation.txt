@@ -1,0 +1,25 @@
+reflexive relation : a relation "R" on a set "A" is said to be reflexive 
+If (𝑥,𝑥) ∈ 𝑅 for every 𝑥 ∈ 𝐴 x ∈ A
+
+simple analogy = if every element of set A is related to it self then 
+it is called a reflaxive relation
+
+A = {1,2,3}
+
+A x A = {(1,1),(1,2),(1,3)}
+	{(2,1),(2,2),(2,3)}
+	{(3,1),(3,2),(3,3)}
+
+so you might be thinking if we want to make an reflexive relation then what 
+do we do so in this case we select the element which is related to itself means 
+R = {(1,1),(2,2),(3,3)} so to make an reflexive relation we must use all the same 
+element in the pair
+
+quick quiz 
+R1 = {(1,1),(2,2),(3,3)} so this is called reflexive relation
+R2 = {(1,1),(2,2)}       so is this an also reflaxive relation 
+uhmm nope because for every x belong to x 
+
+R3 = {(1,1),(2,2),(3,3),(1,2)} yes it is reflactive relation becuse every element of 
+x in belongs to x and if the element more after the x belong to x its fine cause its 
+followed the formula 

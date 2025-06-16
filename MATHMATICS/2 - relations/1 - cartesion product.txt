@@ -1,0 +1,64 @@
+cartesion product : 
+let A = {a,b}     B = {1,2,3}
+
+we define cartesian products = A × B
+
+how does it works?
+so we have two sets one A and B so to get the cartesian products of it we 
+define it like A × B this so which means take set A first element then multiply 
+it with set B let me show you how 
+
+explaination
+
+right way 
+A × B = {(a,1),(a,2),(a,3),(b,1),(b,2),(b,3)} 
+
+wrong ways 
+A × B = {(1,a),(2,a),(3,a),(1,b),(2,b),(3,b)}
+this way is wrong till you define the cartesion product reverse like B × A if you 
+define the cartesian as this then that gonna be correct way
+
+remember the point that A x B is not equal to B x A 
+(A × B ≠ B × A) 
+
+they can be equal if the set element are same as followed 
+A = {1,2}    
+B = {1,2}    
+so in this scenario the A x B = B x A 
+
+
+
+also remeber that if an set conatines Φ then it will also included in the cross element let me show you how 
+A = {Φ,1,2}
+B = {Φ,1,2}
+
+so the out put would be 
+A x B = {(Φ,Φ),(Φ,1),(Φ,2),(1,Φ),(1,1),(1,2),(2,Φ),(2,1),(2,2)}
+
+so you might be thinking if there are more element in the set the how you gonna get the total elements total
+so for example 
+
+A = {1,2,3,4,5,6,9,8} (total cardinality of A is 8)
+B = {1,2,4,9,8,7,6,5,4} (total cardinality of B is 9)
+so we do multiplication = 8 * 9 = 72 
+so the total set of the cartesion would be 72
+
+Relation in Cartesian Product:
+A relation is just a selection of some pairs from the Cartesian product A × B.
+
+Example:
+
+Let:
+A = {1, 2}
+B = {a, b}
+
+Then:
+A × B = {(1, a), (1, b), (2, a), (2, b)}
+
+A relation from A to B can be:
+R = {(1, a), (2, b)}
+
+That’s a relation — just a part of A × B.
+
+Final line:
+Relation ⟶ a subset of A × B
