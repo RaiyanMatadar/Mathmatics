@@ -1,7 +1,0 @@
-small note on relations 
-in the reflexive relation case we should see the set elements becuase its says that 
-we must need all the elements reflexive 
-
-in other cases we can directly see the R for irreflexive,symmetric,asymettric,antisymmetric 
-we can skip to see the set like we can direclty see R instead of set.
-
